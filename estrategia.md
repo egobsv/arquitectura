@@ -1,5 +1,5 @@
 
-# Nivel Estrategia
+# Estrategia
 
 El objetivo de este nivel es identificar los servicios que administra la institución y cuales son las prioridades para su mejora. La transformación digital demanda una planificación estratégica que vaya mas allá de la implementación de una tecnología o solución TIC determinada. Se trata de ver y usar tecnología no solo como soporte, sino como agente de cambio para crear más y mejores servicios públicos.
 
