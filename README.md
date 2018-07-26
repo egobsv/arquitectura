@@ -1,18 +1,12 @@
 1. [Introducción](#)
-
 2. [Modelo](modelo.md)
-
 3. [Estrategia](estrategia.md)
-
 4. [Procesos y Reglamentos](procesos.md)
-
 5. [Gestión de Datos ](datos.md)
-
 6. [Tecnologías y Aplicaciones](tecnologia.md)
-
 7. [Infraestructura](infraestructura.md)
-
 8. [Entrega y Aseguramiento de la Calidad](calidad.md)
+
 
 # Introducción: Arquitectura de Servicios de Gobierno
 
