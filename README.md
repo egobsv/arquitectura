@@ -1,11 +1,19 @@
-[Introducción](#)
-[Modelo](modelo.md)
-[Nivel Estrategia](estrategia.md)
-[Nivel Procesos y Reglamentos](procesos.md)
-[Nivel Gestión de Datos ](datos.md)
-[Nivel Tecnologías y Aplicaciones](tecnologia.md)
-[Nivel Infraestructura](infraestructura.md)
-[Nivel Implementación y Aseguramiento de la Calidad](calidad.md)
+1. [Introducción](#)
+
+2. [Modelo](modelo.md)
+
+3. [Estrategia](estrategia.md)
+
+4. [Procesos y Reglamentos](procesos.md)
+
+5. [Gestión de Datos ](datos.md)
+
+6. [Tecnologías y Aplicaciones](tecnologia.md)
+
+7. [Infraestructura](infraestructura.md)
+
+8. [Entrega y Aseguramiento de la Calidad](calidad.md)
+
 # Introducción: Arquitectura de Servicios de Gobierno
 
 La gestión pública demanda la entrega de servicios eficientes que agreguen valor a la vida de los ciudadanos. Los servicios deben mejorarse tomando en cuenta que fueron diseñados para operar de forma aislada.  Existen islas de información donde los datos de los ciudadanos están dispersos en diferentes instituciones de gobierno y aún no existen mecanismos que permitan la integración de esta información de forma eficiente y segura. Por otro lado, cada institución diseña su modelo de gestión de servicios tomando en cuenta la normativa relevante en su sector, existe poca coordinación entre instituciones de un mismo sector o dominio de servicio al ciudadano y tal coordinación es aún menor entre diferentes sectores.
