@@ -14,12 +14,6 @@ Por todo esto, el canal de entrega principal para la funcionalidad de una aplica
 
 Esta información ayuda a los desarrolladores a enfocarse en construir aplicaciones que escalan fácilmente, cumplen con la demanda actual y responden a tecnologías emergentes tales como el internet de las cosas (IoT). Por último, es importante reconocer que las instituciones muchas veces tienen ya sistemas legado que fueron construidos como monolitos (tales como JEE), y será necesario hacer un rediseño de las mismas, o agregar una capa que exponga servicios a través de APIs.
 
-**Entregables**
-
-* Análisis de brechas y plan de gestión del cambio
-* Modelo de infraestructura para despliegue de APIs institucionales: APIs de acceso Interno, APIs de acceso externo.
-* Documentación de consumo de API desde múltiples plataformas: ventanilla de atención, quiosco electrónico, aplicación web, aplicación móvil.
-* Plan de gestión de acceso y seguridad para APIs de consumo externo.
 
 **Herramientas:**
 
@@ -27,6 +21,15 @@ Esta información ayuda a los desarrolladores a enfocarse en construir aplicacio
 * [Lineamientos de Interoperabilidad](https://www.gobiernoelectronico.gob.sv/?p=608)
 
 * [Seguridad y acceso de APIs](https://github.com/shieldfy/API-Security-Checklist/blob/master/README-es.md)
+
+**Entregables**
+
+* Análisis de brechas y plan de gestión del cambio
+* Modelo de infraestructura para despliegue de APIs institucionales: APIs de acceso Interno, APIs de acceso externo.
+* Documentación de consumo de API desde múltiples plataformas: ventanilla de atención, quiosco electrónico, aplicación web, aplicación móvil.
+* Plan de gestión de acceso y seguridad para APIs de consumo externo.
+* Documentación de demanda proyectada y métricas de monitoreo del servicio
+* Documento de integración con portal nacional de servicios
 
 Ejemplo de modelo de infraestructura y acceso multicanal:
 ![](infraestructura.png)
