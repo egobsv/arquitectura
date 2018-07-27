@@ -1,5 +1,5 @@
 
-# Nivel Tecnologías y Aplicaciones
+# Tecnologías y Aplicaciones
 
 Las soluciones informáticas deben responder a las necesidades de los flujos de trabajo y gestión de datos de los servicios públicos. Para poder diseñar soluciones informáticas que soporten servicios integrados, es necesario garantizar la aplicación de estándares y tecnologías, sin restricciones de uso y de acceso libre, que estén apoyados por comunidades de práctica. Dichos lineamientos de integración, o interoperabilidad, garantizan el acoplamiento entre diferentes soluciones y son independientes de la tecnología que se utilice.
 
