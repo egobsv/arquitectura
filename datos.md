@@ -8,12 +8,12 @@ Así mismo, es necesario cumplir con los lineamientos semánticos y técnicos se
 
 Para documentar la gestión de datos de un servicio, evaluar la aplicación de estándares e identificar su uso se sugiere empezar con las siguientes preguntas:
 
-¿Cuáles son los datos consumidos durante la entrega del servicio?
-¿Cuáles son los datos generados durante la entrega del servicio?
-¿Estos datos son todos públicos, que ley/normativa lo impide?
-¿Cuál es el ciclo de gestión (creación, respaldo, archivado, destrucción, etc.) de esos datos?
-¿Qué procesos/personas utilizan/modifican estos datos?
-¿Cuales son los campos que permiten asociar los datos en distintos procesos?
+* ¿Cuáles son los datos consumidos durante la entrega del servicio?
+* ¿Cuáles son los datos generados durante la entrega del servicio?
+* ¿Estos datos son todos públicos, que ley/normativa lo impide?
+* ¿Cuál es el ciclo de gestión (creación, respaldo, archivado, destrucción, etc.) de esos datos?
+* ¿Qué procesos/personas utilizan/modifican estos datos?
+* ¿Cuales son los campos que permiten asociar los datos en distintos procesos?
 
 **Entregables:**
 
