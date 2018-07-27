@@ -9,7 +9,7 @@ Por otro lado, la nueva orientación a resultados de las asignaciones presupuest
 
   Para documentar el posicionamiento de su institución e identificar los servicios que deben ser priorizarse es necesario responder a las siguientes preguntas:
 
-* ¿Cuáles servicios ofrece la institución a la población?
+* ¿Cuáles son los principales servicios que ofrece la institución a la población?
 * ¿Estos servicios cubren la demanda de la población?
 * ¿Cómo abonan estos servicios a las prioridades institucionales y de gobierno (Plan de Gobierno, ODS, etc.)?
 * ¿Qué servicios tendrían mayor impacto al ser modernizado?
