@@ -19,7 +19,6 @@ Esta información ayuda a los desarrolladores a enfocarse en construir aplicacio
 
 * Desarrollo multiplataforma/multicanal con [Apache Córdova](https://cordova.apache.org/) 
 * [Lineamientos de Interoperabilidad](https://www.gobiernoelectronico.gob.sv/?p=608)
-
 * [Seguridad y acceso de APIs](https://github.com/shieldfy/API-Security-Checklist/blob/master/README-es.md)
 
 **Entregables**
