@@ -5,9 +5,8 @@ El Modelo de la Arquitectura de Servicios de Gobierno se basa en el [modelo de T
 
 <table boder="1">
 <tbody>
-<tr><td rowspan="6" align="center" bgcolor="#e0ebeb" >
-<p>Normativas y Liderazgos</p>
-</td><td bgcolor="#c2d6d6">
+<tr><td rowspan="6" style="text-align:center;vertical-align:middle;" bgcolor="#e0ebeb">
+  Liderazgo y Gestión de recursos</td><td bgcolor="#c2d6d6">
 <p>Estrategia</p>
 </td></tr>
 <tr><td bgcolor="#b3cccc">
