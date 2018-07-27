@@ -29,8 +29,8 @@ Diccionario que contenga para cada dato:
 
 **Herramientas:**
 
-[Diagramas UML en linea](https://draw.io) 
-[Diagramas de Modelos Entidad Relación en línea](https://draw.io) 
-[Modelos de Registro de Persona– Mesa de Datos Abiertos](https://www.gobiernoelectronico.gob.sv/?p=451)
-[Guía de Implementación de la Política de Nacional de Datos Abiertos]( 
+* [Diagramas UML en linea](https://draw.io) 
+* [Diagramas de Modelos Entidad Relación en línea](https://draw.io) 
+* [Modelos de Registro de Persona– Mesa de Datos Abiertos](https://www.gobiernoelectronico.gob.sv/?p=451)
+* [Guía de Implementación de la Política de Nacional de Datos Abiertos]( 
 https://www.gobiernoelectronico.gob.sv/?p=770)
