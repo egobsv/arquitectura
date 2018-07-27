@@ -16,6 +16,7 @@ Esta información ayuda a los desarrolladores a enfocarse en construir aplicacio
 
 **Entregables**
 
+* Análisis de brechas y plan de gestión del cambio
 * Modelo de infraestructura para despliegue de APIs institucionales: APIs de acceso Interno, APIs de acceso externo.
 * Documentación de consumo de API desde múltiples plataformas: ventanilla de atención, quiosco electrónico, aplicación web, aplicación móvil.
 * Plan de gestión de acceso y seguridad para APIs de consumo externo.
