@@ -10,5 +10,6 @@ Una ves se han implementado los componentes técnicos y administrativos del serv
 **Entregables:**
 
 * Documentación de demanda proyectada y demanda real de servicios
+* Documento de integración con portal nacional se servicios
 * Documentación de mecanismos de seguimiento a incidencias e [integración con la plataforma de atención ciudadana](https://www.atencionciudadana.sv/)
 
