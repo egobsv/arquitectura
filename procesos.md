@@ -32,7 +32,7 @@ Flujo de trabajo: Documentar en detalle los pasos y decisiones necesarias para e
 [Mejores prácticas de modelado de flujos de trabajo del Gobierno de México](https://www.gob.mx/guiasinteroperabilidad/contenido_gral/anexos_gral/anexo_g3_a1.pdf)
 
 Software de Diagramado BPMN:
-
+[Modelador Bizagui](https://www.bizagi.com/es/productos/bpm-suite/modeler)
 https://demo.bpmn.io/  
 https://www.draw.io/
 
