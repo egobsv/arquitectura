@@ -22,12 +22,11 @@ Clases de datos que integran un servicio ([Diagrama UML](https://es.wikipedia.or
 Diagrama de relaciones de la información ([Modelo Entidad Relación](https://es.wikipedia.org/wiki/Modelo_entidad-relaci%C3%B3n))
 
 Diccionario que contenga para cada dato:
-* Descripción
+*  Descripción
 *  Estándar/catálogo [si aplica](http://aplicaciones.digestyc.gob.sv/clasificadoresv2)
-*  Norma/requisito si aplica,
 *  Nivel de apertura (LAIP) si aplica.
 
-Para datos personales, decumentar como se da cumplimiento a los artículos 32 y 33 de la Ley de Acceso a la Información Pública.
+Para datos personales, decumentar como se da cumplimiento a los artículos 32 y 33 de la [Ley de Acceso a la Información Pública](https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073009410_archivo_documento_legislativo.pdf).
 
 **Herramientas:**
 
