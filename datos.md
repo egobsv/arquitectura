@@ -2,7 +2,7 @@
 
 Un servicio de gobierno recibe, produce y administran información de los ciudadanos. Para construir servicios integrados y eficientes es necesario aplicar modelos comunes y formatos que faciliten el intercambio y reutilización de datos entre las diferentes entidades involucradas en la prestación de un servicio.
 
-Esto implica una gestión eficiente, basada en estándares reconocidos,  sobre cómo los datos son procesados, almacenados y utilizados para la prestación de un servicio. La aplicación de estándares de información debe estar alineada a las normativas y recomendaciones en materia de manejo de datos tales como la [Ley de Acceso a la Información Publica](https://www.gobiernoabierto.gob.sv/pages/ley-de-acceso-a-la-informacion-publica) y la [Política Nacional de Datos Abiertos](https://www.gobiernoelectronico.gob.sv/?p=770).
+Esto implica una gestión eficiente, basada en estándares reconocidos,  sobre cómo los datos son procesados, almacenados y utilizados para la prestación de un servicio. La aplicación de estándares de información debe estar alineada a las normativas y recomendaciones en materia de manejo de datos tales como la [Ley de Acceso a la Información Publica](https://www.gobiernoabierto.gob.sv/pages/ley-de-acceso-a-la-informacion-publica), el [Catálogo de Clasificadores de DIGESTYC](http://aplicaciones.digestyc.gob.sv/clasificadoresv2) y la [Política Nacional de Datos Abiertos](https://www.gobiernoelectronico.gob.sv/?p=770).
 
 Así mismo, es necesario cumplir con los lineamientos semánticos y técnicos sectoriales para conectar datos entre o en instituciones. Las Instituciones serán responsables de que los datos o información que manejen para la prestación de servicios digitales cumplan con los lineamientos pertinentes y permanezcan completos y seguros.
 
@@ -23,9 +23,11 @@ Diagrama de relaciones de la información ([Modelo Entidad Relación](https://es
 
 Diccionario que contenga para cada dato:
 * Descripción
-*  Estándar/catálogo si aplica
+*  Estándar/catálogo [si aplica](http://aplicaciones.digestyc.gob.sv/clasificadoresv2)
 *  Norma/requisito si aplica,
 *  Nivel de apertura (LAIP) si aplica.
+
+Para datos personales, decumentar como se da cumplimiento a los artículos 32 y 33 de la Ley de Acceso a la Información Pública.
 
 **Herramientas:**
 
@@ -34,3 +36,4 @@ Diccionario que contenga para cada dato:
 * [Modelos de Registro de Persona– Mesa de Datos Abiertos](https://www.gobiernoelectronico.gob.sv/?p=451)
 * [Guía de Implementación de la Política de Nacional de Datos Abiertos]( 
 https://www.gobiernoelectronico.gob.sv/?p=770)
+* [Lineamiento 5: Gestión de Archivo Electrónico](https://www.transparencia.gob.sv/institutions/ansp/documents/152979/download)
