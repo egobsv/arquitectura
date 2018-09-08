@@ -15,3 +15,6 @@ Una vez se han implementado los componentes técnicos y administrativos del serv
 * Página de consulta de directorio de oficinas/organizaciones existentes para atender al ciudadano (dirección, teléfono, horario, etc). (PPC-Art. 7.1.m)
 * Documentación de mecanismos de seguimiento a incidencias e [integración con la plataforma de atención ciudadana](https://www.atencionciudadana.sv/)
 
+## Licencia
+
+Este trabajo esta cubierto dentro de la estrategia de desarrollo de servicios de Gobierno Electrónico del Gobierno de El Salvador y como tal es una obra de valor público sujeto a los lineamientos de la Política de Datos Abiertos y la licencia [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.es).  
