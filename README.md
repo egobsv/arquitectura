@@ -22,3 +22,7 @@ En general el modelo de la Arquitectura de Servicios de Gobierno es un conjunto 
 4.  Implementar las partes independientes de un Gobierno Conectado.
 
 La arquitectura incluye acciones para las diferentes áreas de gestión de las instituciones, esto para alinear esfuerzos entre diferentes instituciones. El alineamiento estratégico y el diseño de servicios son campos de estudio amplios que fueron abordados inicialmente en los años ochenta. A la fecha existen múltiples modelos, adoptados por los gobiernos de diferentes países, que continúan evolucionando para responder a las necesidades de las instituciones.
+
+## Licencia
+
+Este trabajo esta cubierto dentro de la estrategia de desarrollo de servicios de Gobierno Electrónico del Gobierno de El Salvador y como tal es una obra de valor público sujeto a los lineamientos de la Política de Datos Abiertos y la licencia [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.es).  
