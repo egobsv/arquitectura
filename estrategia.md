@@ -30,3 +30,7 @@ Catálogo de servicios administrados por la institución, que incluya la siguien
 [Guía Metodológica para la Identificación y diseño de Programas Presupuestarios del Ministerio de Hacienda](http://www.transparenciafiscal.gob.sv/downloads/pdf/DC4585_Guia_Metodologica_para_la_Identificacion_y_Diseno_de_Programas_Presupuestarios.pdf)
 
 [Lineamientos para la Planificación Estratégica de la Instituciones](http://www.secretariatecnica.gob.sv/lineamientos-para-la-planificacion-estrategica-en-las-instituciones/)
+
+## Licencia
+
+Este trabajo esta cubierto dentro de la estrategia de desarrollo de servicios de Gobierno Electrónico del Gobierno de El Salvador y como tal es una obra de valor público sujeto a los lineamientos de la Política de Datos Abiertos y la licencia [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.es).  
