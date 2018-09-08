@@ -27,3 +27,7 @@ El Modelo de la Arquitectura de Servicios de Gobierno se basa en el [modelo de T
 Cada nivel de la Arquitectura de Servicios de Gobierno  contiene lineamientos que deben ser aplicados dentro de un proceso cíclico e iterativo. Las necesidades que rigen dicho proceso son altamente dinámicas y cambiantes, por eso es importante documentar los diseños y decisiones que toma la institución dentro de cada componente.
 
 Para facilitar el diseño y su documentación se sugieren herramientas plantillas y formatos para cada uno de los niveles de la arquitectura.
+
+## Licencia
+
+Este trabajo esta cubierto dentro de la estrategia de desarrollo de servicios de Gobierno Electrónico del Gobierno de El Salvador y como tal es una obra de valor público sujeto a los lineamientos de la Política de Datos Abiertos y la licencia [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.es).  
