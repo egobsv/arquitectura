@@ -36,3 +36,7 @@ Para datos personales, decumentar como se da cumplimiento a los artículos 32 y 
 * [Guía de Implementación de la Política de Nacional de Datos Abiertos]( 
 https://www.gobiernoelectronico.gob.sv/?p=770)
 * [Lineamiento 5: Gestión de Archivo Electrónico](https://www.transparencia.gob.sv/institutions/ansp/documents/152979/download)
+
+## Licencia
+
+Este trabajo esta cubierto dentro de la estrategia de desarrollo de servicios de Gobierno Electrónico del Gobierno de El Salvador y como tal es una obra de valor público sujeto a los lineamientos de la Política de Datos Abiertos y la licencia [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.es).  
