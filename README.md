@@ -8,9 +8,9 @@
 8. [Entrega y Mejora Continua](calidad.md)
 
 
-# Introducción: Arquitectura de Servicios Digitales de Gobierno
+# Arquitectura de Servicios Digitales de Gobierno
 
-La gestión pública demanda la entrega de servicios eficientes que agreguen valor a la vida de los ciudadanos. Los servicios deben mejorarse tomando en cuenta que fueron diseñados para operar de forma aislada.  Existen islas de información donde los datos de los ciudadanos están dispersos en diferentes instituciones de gobierno y aún no existen mecanismos que permitan la integración de esta información de forma eficiente y segura. Por otro lado, cada institución diseña su modelo de gestión de servicios tomando en cuenta la normativa relevante en su sector, existe poca coordinación entre instituciones de un mismo sector o dominio de servicio al ciudadano y tal coordinación es aún menor entre diferentes sectores.
+La gestión pública demanda la entrega de servicios eficientes que agreguen valor a los ciudadanos. Los servicios de gobierno deben mejorarse y conectarse tomando en cuenta que fueron diseñados inicilamente para operar de forma aislada.  Existen islas de información donde los datos de los ciudadanos están dispersos en diferentes instituciones de gobierno y hacen falta mecanismos que permitan la integración de esta información de forma eficiente y segura. Por otro lado, cada institución diseña su modelo de gestión de servicios tomando en cuenta la normativa relevante en su sector, existe poca coordinación entre instituciones de un mismo sector o dominio de servicio al ciudadano y tal coordinación es aún menor entre diferentes sectores.
 
 Para iniciar un proceso de cambio que permita un trabajo coordinado entre las instituciones para diseñar mejores servicios, es necesario contar con un modelo, un marco de operación, común entre los sistemas de gestión de servicios de las instituciones del Estado. Dicho modelo es la Arquitectura de Servicios de Gobierno descrita en este documento.
 
