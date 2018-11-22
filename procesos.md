@@ -44,3 +44,5 @@ https://www.draw.io/
 
 Niveles de diagramado BPMN:
 ![](https://developsoftware.files.wordpress.com/2014/03/process-hierarchy.png)
+
+Fuente: https://developsoftware.wordpress.com/2014/03/26/business-process-improvement/ 
