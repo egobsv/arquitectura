@@ -5,7 +5,7 @@
 5. [Gestión de Datos ](datos.md)
 6. [Tecnologías y Aplicaciones](tecnologia.md)
 7. [Infraestructura](infraestructura.md)
-8. [Entrega y Mejora Continua](calidad.md)
+8. [Entrega y Atención al Usuario](calidad.md)
 
 
 # Arquitectura de Servicios Digitales de Gobierno
