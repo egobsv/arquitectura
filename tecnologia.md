@@ -19,7 +19,7 @@ Para documentar las tecnologías que soportan un servicio de gobierno se sugiere
 ENTREGABLES:
 
 * [Diagrama de casos de uso del servicio](https://es.wikipedia.org/wiki/Diagrama_de_casos_de_uso)
-* Documento de diseño de servicio, tomando en cuenta los lineamientos de interoperabilidad(https://www.gobiernoelectronico.gob.sv/?p=608) y Datos Abiertos](https://www.gobiernoelectronico.gob.sv/?p=451)
+* Documento de diseño de servicio, tomando en cuenta los [lineamientos de interoperabilidad](https://www.gobiernoelectronico.gob.sv/?p=608) y [Datos Abiertos](https://www.gobiernoelectronico.gob.sv/?p=451)
 * Ficha del servicio: URL, ejemplos de uso, información de contacto.
 
 **Herramientas**
