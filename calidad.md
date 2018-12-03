@@ -1,5 +1,5 @@
 
-# Entrega y Mejora Continua
+# Entrega y Atención al Usuario
 
 Una vez se han implementado los componentes técnicos y administrativos del servicio es necesario medir y evaluar continuamente. El éxito del servicio se mide en función de la satisfacción del usuario y por esto es indispensable que la voz del usuario sea parte de la mejora continua de los servicios públicos. Esta trabajo esta descrito en la [Política de Participación Ciudadana (PPC)](http://api.gobiernoabierto.gob.sv/attachments/6840/download) e implica diseñar mecanismos de consulta y seguimiento a incidentes que generen confianza en los usuarios. Además, asegurar que estos mecanismos estén disponibles como parte de la estrategia de entrega de servicios. Como parte de esta planificación es necesario determinar:
 
