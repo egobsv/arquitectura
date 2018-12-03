@@ -19,7 +19,7 @@ El Modelo de la Arquitectura de Servicios de Gobierno se basa en el [modelo de T
 </td></tr><tr><td bgcolor="#85adad">
 <p>Infraestructura</p>
 </td></tr><tr><td bgcolor="#75a3a3">
-<p>Entrega y Mejora Continua</p>
+<p>Entrega y Atención al Usuario</p>
 </td></tr></tbody>
 </table>
 
