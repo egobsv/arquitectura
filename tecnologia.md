@@ -1,7 +1,7 @@
 
 # Tecnologías y Aplicaciones
 
-Las soluciones informáticas deben responder a las necesidades de los flujos de trabajo y gestión de datos de los servicios públicos. Para poder diseñar soluciones informáticas que soporten servicios integrados, es necesario usar estándares y tecnologías, que no tengan restricciones de uso y de acceso libre, que estén apoyados por comunidades de práctica. El uso de estándares garantiza el acoplamiento entre diferentes soluciones y son independientes de la tecnología que se utilice. Dichos estándares están disponibles en los [lineamientos de integración e interoperabilidad](https://github.com/egobsv/EstandaresInteroperabilidad).
+Las soluciones informáticas deben responder a las necesidades de los flujos de trabajo y gestión de datos de los servicios públicos. Para poder diseñar soluciones informáticas que soporten servicios integrados, es necesario usar estándares y tecnologías, que no tengan restricciones de uso y de acceso libre, que estén apoyados por comunidades de práctica. El uso de estándares garantiza el acoplamiento entre diferentes soluciones y son independientes de la tecnología que se utilice. Dichos estándares están disponibles en los [lineamientos de integración e interoperabilidad](https://egobsv.github.io/EstandaresInteroperabilidad/).
 
 Por todo esto, el canal de entrega principal para la funcionalidad de una aplicación de gobierno será una API, teniendo en cuenta las diferentes formas en que se puede invocar y los posibles casos de uso.  Además, se recomienda re usar componentes tales como el motor de pagos electrónicos de gobierno (PAGOES), y el servicio de Atención Ciudadana (SAC). 
 
