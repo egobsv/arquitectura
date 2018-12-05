@@ -26,6 +26,7 @@ ENTREGABLES:
 * [Gestor de Procesos SIMPLE](https://www.agesic.gub.uy/innovaportal/v/5588/11/agesic/sistema-para-la-implementacion-de-procesos-ligeramente-estandarizados-simple.html)
 * [Gestor de Procesos Camunda](https://camunda.com/products/bpmn-engine/) 
 * Compendio de herramientas para el [Desarrollo de APIs](https://github.com/yosriady/api-development-tools)
+* [Recomendaciones sobre Seguridad de APIs](https://github.com/shieldfy/API-Security-Checklist/blob/master/README-es.md)
 * Desarrollo multiplataforma/multicanal con [Apache Córdova](https://cordova.apache.org/) 
 
 
