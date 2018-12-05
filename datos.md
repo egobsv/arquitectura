@@ -36,6 +36,7 @@ Para datos personales, decumentar como se da cumplimiento a los artículos 32 y 
 * [Guía de Implementación de la Política de Nacional de Datos Abiertos]( 
 https://www.gobiernoelectronico.gob.sv/?p=770)
 * [Lineamiento 5: Gestión de Archivo Electrónico](https://www.transparencia.gob.sv/institutions/ansp/documents/152979/download)
+* [Sistema de gestión documental](https://github.com/egobsv/flujosDocs)
 
 ## Licencia
 
