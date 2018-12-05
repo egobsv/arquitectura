@@ -5,7 +5,7 @@ Las soluciones informáticas deben responder a las necesidades de los flujos de 
 
 Por todo esto, el canal de entrega principal para la funcionalidad de una aplicación de gobierno será una API, teniendo en cuenta las diferentes formas en que se puede invocar y los posibles casos de uso.  Además, se recomienda re usar componentes tales como el motor de pagos electrónicos de gobierno (PAGOES), y el servicio de Atención Ciudadana (SAC). 
 
-Para documentar las tecnologías que soportan un servicio de gobierno se sugiere empezar con las siguientes preguntas:
+Además, para asegurar la experiencia de las personas usuarias, las soluciones de gobierno deben ser capaces de funcionar en modo desconectado hasta que se restablezca una conexión. Para documentar las tecnologías que soportan estos nuevos servicios de gobierno se sugiere empezar con las siguientes preguntas:
 
 * ¿Quiénes son los usuarios del servicio?
 * ¿Como se identifican y autorizan los usuarios del servicio?
