@@ -29,7 +29,7 @@ ENTREGABLES:
 * Desarrollo multiplataforma/multicanal con [Apache Córdova](https://cordova.apache.org/) 
 
 
-Ejemplo de modelo de infraestructura y acceso multicanal:
+Ejemplo de diseño de APIs para acceso multicanal:
 ![](infraestructura.png)
 
 ## Licencia
