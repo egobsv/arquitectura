@@ -1,37 +1,35 @@
 
+
 # Infraestructura del Servicio
 
-Los líderes de Transformación Digital deben conocer nuevas tecnologías que pueden explotarse para crear oportunidades. Ademas es importante implementar nuevas tecnologías para mejorar servicios de forma gradual de forma que se aproveche la infraestructura ya existente.
+Los líderes de Transformación Digital deben conocer nuevas tecnologías que pueden explotarse para crear oportunidades. Ademas es importante implementar nuevas tecnologías para mejorar servicios de forma gradual y así aprovechar las soluciones ya existente.
 
- Las innovaciones dependen de una conectividad a Internet barata y confiable por esto es indispensable considerar soluciones en la nube y la agregación de datos a nivel de toda la sociedad, todos accesibles mediante [APIs](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones). Además, para asegurar la experiencia de las personas usuarias, las soluciones de gobierno deben ser capaces de funcionar en modo desconectado hasta que se restablezca una conexión.
+La entrega de servicios sin interrupciones require contar con equipos y espacios seguros incluyendo:
 
-Por todo esto, el canal de entrega principal para la funcionalidad de una aplicación de gobierno será una API, teniendo en cuenta las diferentes formas en que se puede invocar y los posibles casos de uso.
+ * Servidores
+* Equipos de seguridad informática
+* Enlaces/Ancho de Banda
+* Equipos de enfriamiento
+* Respaldo Eléctrico
+* Seguridad Física
+* Sitio de contingencia, plan de emergencia
 
-* ¿Existen casos de uso diferentes para clientes internos y externos?
-* ¿Existen diferentes requisitos de datos y volúmenes para clientes internos y externos?
-* ¿Necesita aplicar diferentes niveles de seguridad?
-* ¿Es necesario el servicio este disponible para diferentes tecnologías?
+Al mismo tiempo, el contar con esta infraestructura genera nuevos Costos operativos y de mantenimiento que deben ser asumidos por la institución.   Para garantizar que las instituciones públicas realizan inversiones que apoyan directamente a alcanzar su misión es indispensable tomar en cuenta las siguientes consideraciones:
 
-Esta información ayuda a los desarrolladores a enfocarse en construir aplicaciones que escalan fácilmente, cumplen con la demanda actual y responden a tecnologías emergentes tales como el internet de las cosas (IoT). Por último, es importante reconocer que las instituciones muchas veces tienen ya sistemas legado que fueron construidos como monolitos (tales como JEE), y será necesario hacer un rediseño de las mismas, o agregar una capa que exponga servicios a través de APIs.
+* ¿Podemos asumir los costos y obligaciones?
+* ¿Nuestro personal puede asumir la gestión de un centro de datos?
+* ¿Podemos crear alianzas para alojarnos en el centro de datos de otra institución?
+* ¿Cómo aprovechamos los recursos que tenemos sin descuidar nuestra misión?
+* ¿Qué necesitamos  garantizar si usamos un centro de datos comercial?
 
+Esta reflexión ayuda a la institución a enfocar sus esfuerzos y adquirir soluciones que escalan fácilmente, cumplen con la demanda actual y pueden  adaptarse fácilmente para aprovechar las tecnologías emergentes. 
 
-**Herramientas:**
-
-* Desarrollo multiplataforma/multicanal con [Apache Córdova](https://cordova.apache.org/) 
-* [Lineamientos de Interoperabilidad](https://www.gobiernoelectronico.gob.sv/?p=608)
-* [Seguridad y acceso de APIs](https://github.com/shieldfy/API-Security-Checklist/blob/master/README-es.md)
 
 **Entregables**
 
-* Análisis de brechas y plan de gestión del cambio
-* Modelo de infraestructura para despliegue de APIs institucionales: APIs de acceso Interno, APIs de acceso externo.
-* Documentación de consumo de API desde múltiples plataformas: ventanilla de atención, quiosco electrónico, aplicación web, aplicación móvil.
-* Plan de gestión de acceso y seguridad para APIs de consumo externo.
-* Documentación de demanda proyectada y métricas de monitoreo del servicio
-* Documento de integración con portal nacional de servicios
+ * Autoevaluación  de cumplimiento del [Nivel 2 de la norma ANSI/TIA-942](http://blog.aodbc.es/2012/07/10/clasificacion-tier-en-el-datacenter-el-estandar-ansitia-942/)  
+* Plan de trabajo para garantizar la infraestructura mínima y la continuidad del servicio.
 
-Ejemplo de modelo de infraestructura y acceso multicanal:
-![](infraestructura.png)
 
 ## Licencia
 
