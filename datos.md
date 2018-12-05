@@ -4,7 +4,7 @@ Un servicio de gobierno recibe, produce y administran información de los ciudad
 
 Esto implica una gestión eficiente, basada en estándares reconocidos,  sobre cómo los datos son procesados, almacenados y utilizados para la prestación de un servicio. La aplicación de estándares de información debe estar alineada a las normativas y recomendaciones en materia de manejo de datos tales como la [Ley de Acceso a la Información Publica](https://www.gobiernoabierto.gob.sv/pages/ley-de-acceso-a-la-informacion-publica), el [Catálogo de Clasificadores de DIGESTYC](http://aplicaciones.digestyc.gob.sv/clasificadoresv2) y la [Política Nacional de Datos Abiertos](https://www.gobiernoelectronico.gob.sv/?p=770).
 
-Así mismo, es necesario cumplir con los lineamientos semánticos y técnicos sectoriales para conectar datos entre o en instituciones. Las Instituciones serán responsables de que los datos o información que manejen para la prestación de servicios digitales cumplan con los lineamientos pertinentes y permanezcan completos y seguros.
+Así mismo, es necesario estabelcer y adoptar estándares semánticos y técnicos que faciliten el uso e intercambio de datos a nivel insitucional y sectorial. Las Instituciones serán responsables de que los datos o información que manejen para la prestación de servicios digitales cumplan con los lineamientos pertinentes y permanezcan completos y seguros.
 
 Para documentar la gestión de datos de un servicio, evaluar la aplicación de estándares e identificar su uso se sugiere empezar con las siguientes preguntas:
 
