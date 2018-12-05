@@ -31,3 +31,7 @@ ENTREGABLES:
 
 Ejemplo de modelo de infraestructura y acceso multicanal:
 ![](infraestructura.png)
+
+## Licencia
+
+Este trabajo esta cubierto dentro de la estrategia de desarrollo de servicios de Gobierno Electrónico del Gobierno de El Salvador y como tal es una obra de valor público sujeto a los lineamientos de la Política de Datos Abiertos y la licencia [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.es).  
