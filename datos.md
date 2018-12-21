@@ -8,16 +8,14 @@ Así mismo, es necesario estabelcer y adoptar estándares semánticos y técnico
 
 Para documentar la gestión de datos de un servicio, evaluar la aplicación de estándares e identificar su uso se sugiere empezar con las siguientes preguntas:
 
-* ¿Cuáles son los datos consumidos durante la entrega del servicio?
-* ¿Cuáles son los datos generados durante la entrega del servicio?
-* ¿Estos datos son todos públicos, que ley/normativa lo impide?
-* ¿Cuál es el ciclo de gestión (creación, respaldo, archivado, destrucción, etc.) de esos datos?
-* ¿Qué procesos/personas utilizan/modifican estos datos?
-* ¿Cuales son los campos que permiten asociar los datos en distintos procesos?
+* ¿Cuáles son los datos consumidos y producidos durante la entrega del servicio?
+* ¿Estos datos son todos públicos, que ley/normativa impide compartirlos?
+* ¿Cuáles son las reglas de acceso y gestión de estos datos?
+* ¿Cuáles son los campos que permiten asociar los datos en distintos procesos?
 
 **Entregables:**
 
-Clases de datos que integran un servicio ([Diagrama UML](https://es.wikipedia.org/wiki/Diagrama_de_clases))
+[Inventario Institucional y de Datos Abiertos](https://www.gobiernoelectronico.gob.sv/?p=770)
 
 Diagrama de relaciones de la información ([Modelo Entidad Relación](https://es.wikipedia.org/wiki/Modelo_entidad-relaci%C3%B3n))
 
@@ -30,7 +28,6 @@ Para datos personales, decumentar como se da cumplimiento a los artículos 32 y 
 
 **Herramientas:**
 
-* [Diagramas UML en linea](https://draw.io) 
 * [Diagramas de Modelos Entidad Relación en línea](https://draw.io) 
 * [Modelos de Registro de Persona– Mesa de Datos Abiertos](https://www.gobiernoelectronico.gob.sv/?p=451)
 * [Guía de Implementación de la Política de Nacional de Datos Abiertos]( 
