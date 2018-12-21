@@ -1,17 +1,16 @@
 
 # Procesos y Reglamentos
 
-Los procesos responden a la misión de la institución y son el punto central en la simplificación de tramites y digitalización de servicios. Los procesos proveen el mapa que permite identificar el flujo e integración de la información, las comunicaciones internas y externas y demás tareas que hacen posible la entrega de servicios.
+Los procesos responden a la misión de la institución y son el punto central para la simplificación de tramites y digitalización de servicios que mandata la [Ley de Procedimientos Administrativos](https://www.asamblea.gob.sv/sites/default/files/documents/decretos/8B52B09D-52EC-460C-9C7C-19AC897EB64D.pdf).  Los procesos proveen el mapa que permite identificar el flujo e integración de la información, las comunicaciones internas y externas y demás tareas que hacen posible la entrega de servicios.
 
 Para modernizar y mejorar un servicio, es necesario hacer un análisis de entradas y salidas de información para entender cómo fluye y que tareas se pueden simplificar o eliminar. Para facilitar este análisis se deben documentar las dependencias (análisis funcional) y producir un mapa de procesos. Esta tarea es generalmente cubierta por la unidad de planificación de las instituciones públicas.
 
-Adicionalmente, es necesario entender el flujo de trabajo que soporta al servicio. Para documentar el flujo de trabajo es indispensable contar con todos los actores involucrados en la entrega del servicio. Esto demanda la creación de grupos multidisciplinarios que además estén empoderados para implementar cambios que mejoren la entrega de servicios. Para abordar este trabajo, se sugiere empezar con las siguientes preguntas:
+Adicionalmente, es necesario entender las transacciones, flujos de trabajo y sistemas que soportan al servicio. Para documentar esta infromación es indispensable trabajar con todos los actores involucrados en la entrega del servicio. Esto demanda la creación de grupos multidisciplinarios que además estén empoderados para implementar cambios que mejoren la entrega de servicios. Para abordar este trabajo, se sugiere empezar con las siguientes preguntas:
 
-* ¿Quiénes son los actores que participan en el proceso?,
-* ¿Qué roles desempeñan?
+* ¿Quiénes son los actores que participan en el proceso y Qué roles desempeñan?
 * ¿Cuál es la normativa que justifica los requisitos y pasos actuales?
-* ¿Cuáles servicios externos son requisitos para entregar este servicio?
-* ¿Qué servicios tienen como requisito a este servicio?
+* ¿Que datos externos necesitamos y cómo podemos obtenerlos de forma electrónica?
+* ¿Qué insituciones necesitan consultar nuestro servicio y cómo podemos ofrecerlo de forma electrónica?
 
 **Entregables:**
 
