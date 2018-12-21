@@ -16,13 +16,12 @@ La entrega de servicios sin interrupciones require contar con equipos y espacios
 
 Al mismo tiempo, el contar con esta infraestructura genera nuevos Costos operativos y de mantenimiento que deben ser asumidos por la institución.   Para garantizar que las instituciones públicas realizan inversiones que apoyan directamente a alcanzar su misión es indispensable tomar en cuenta las siguientes consideraciones:
 
-* ¿Podemos asumir los costos y obligaciones?
-* ¿Nuestro personal puede asumir la gestión de un centro de datos?
+* ¿Con los recursos actuales, podemos asumir los costos y funciones?
 * ¿Podemos crear alianzas para alojarnos en el centro de datos de otra institución?
 * ¿Cómo aprovechamos los recursos que tenemos sin descuidar nuestra misión?
-* ¿Qué necesitamos  garantizar si usamos un centro de datos comercial?
+* ¿Existen servicios comerciales que nos garanticen el servicio usando estandares? (ISO/IEC 27001:2013,ISO IEC 27018, ISO/IEC27017:2015, ISO 22301, etc.) 
 
-Esta reflexión ayuda a la institución a enfocar sus esfuerzos y adquirir soluciones que escalan fácilmente, cumplen con la demanda actual y pueden  adaptarse fácilmente para aprovechar las tecnologías emergentes. 
+Esta reflexión ayuda a la institución a enfocar sus esfuerzos y adquirir soluciones que escalan fácilmente, cumplen con la demanda actual y pueden  adaptarse fácilmente para aprovechar tecnologías emergentes. 
 
 
 **Entregables**
