@@ -27,9 +27,9 @@ Catálogo de servicios administrados por la institución, que incluya la siguien
 
 **Herramientas:**
 
-[Guía Metodológica para la Identificación y diseño de Programas Presupuestarios del Ministerio de Hacienda](http://www.transparenciafiscal.gob.sv/downloads/pdf/DC4585_Guia_Metodologica_para_la_Identificacion_y_Diseno_de_Programas_Presupuestarios.pdf)
+[Guía Metodológica para la Identificación y diseño de Programas Presupuestarios del Ministerio de Hacienda](http://www.gobiernoelectronico.gob.sv/wp-content/uploads/2019/05/Guia_Metodologica_para_la_Identificacion_y_Diseno_de_Programas_Presupuestarios.pdf)
 
-[Lineamientos para la Planificación Estratégica de la Instituciones](http://www.secretariatecnica.gob.sv/lineamientos-para-la-planificacion-estrategica-en-las-instituciones/)
+[Lineamientos para la Planificación Estratégica de la Instituciones](http://www.gobiernoelectronico.gob.sv/wp-content/uploads/2019/05/Planificacion-Estrategica-Institucional.pdf)
 
 ## Licencia
 
