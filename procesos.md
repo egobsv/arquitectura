@@ -28,7 +28,7 @@ Análisis Funcional: Documentar procesos misionales de la institución y produci
 
 Flujo de trabajo: Documentar en detalle los pasos y decisiones necesarias para entregar un servicio usando BPMN niveles 3,4 y 5.
 
-[Curso Sobre Modelado BPM - Universidad de los Andes/Colombia ](https://planeacion.uniandes.edu.co/dmdocuments/INS-45-1-01-01%20Modelamiento%20de%20Procesos%20con%20BPMN.pdf)
+[Curso Sobre Modelado BPM - Universidad de los Andes/Colombia ](http://www.gobiernoelectronico.gob.sv/wp-content/uploads/2019/05/Colombia-Modelamiento-de-Procesos-con-BPMN.pdf)
 
 [Buenas prácticas de modelado de flujos de trabajo del Gobierno de México](http://www.gobiernoelectronico.gob.sv/wp-content/uploads/2019/05/Lineamientos-BPMN-Mexico.pdf)
 
